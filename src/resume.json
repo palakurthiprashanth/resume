@@ -1,0 +1,117 @@
+{
+	"name": "Prashanth Palakurthi",
+	"email": "palakurthi.prashanth1@gmail.com",
+	"phone": "+91 9989793676",
+	"image": "./assets/images/main.JPG",
+	"experiences" : [
+		{
+			"title" : "Consultant",
+			"period": "Sep 2018 - Present",
+			"company": "Deloitte, India Hyderabad",
+			"details": "As a Consultant, i help the junior developers and i write a code which can be reused throughout the application and integrate the code in HYBRIS Environment and also responsible for reviewing Pull Requests and also for deployment using JENKINS."
+		},
+		{
+			"title" : "Associate Consultant",
+			"period": "Sep 2016 - Sep 2018",
+			"company": "Capgemini, Hyderabad,India",
+			"details": "As a Associate Consultant, I Used to get the requirements from onsite team and develop the solution in Agile way of working and also responsible for Building and deploying the code using CICD tools."
+		},{
+			"title" : "Associate Software Engineer",
+			"period": "April 2014 - Sep 2016",
+			"company": "Virtusa ,Hyderabad,India",
+			"details": "I Started my carrer as a Front End developer and i worked on technologies HTML5,CSS3,AngularJS and as a junior developer i designed templates which are responsive and made it functional with AngularJS."
+		}
+	],
+	"projects": [
+		{
+			"name":"ISAGENIX",
+			"detail": "Isagenix is a privately held multi-level marketing company that sells dietary supplyments  and personal care products.The company also sells “Financial Wellness” product bundles to the distributors."
+		},
+		{
+			"name":"Financial Profile",
+			"detail": "Financial Profile is a web application for  ABN AMRO customers to view his financial overview, Application will fetch his financial data from dutch government sources for this application will have to make connection with OCTO app and displays his financial information like pension details, loan details, personal details in user friendly way."
+		},
+		{
+			"name":"AIG",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name":"A&E Networks",
+			"detail": "Developing a website where user can navigate to pages depending on type of movies and navigate to detail pages where he can see trailers,Cast.If it is series he can see Episodes depending up on Seasons.User can add items(Movies,Series,Seasons,Episodes) to Watchlist or he can delete items from Watchlist"
+		},
+		{
+			"name":"Hierarchy Management System",
+			"detail": "The solution would allow setting up Channels and the Geographical & Hierarchy associated with the channels. The solution would also support codification of various Business Units & Agents and functionality for Agent Movement (Promotion, Transfer and Termination)."
+		},
+		{
+			"name":"Receipting and Collection Systems",
+			"detail": "It is online payment where the agent or a policy holder will pay the money .If the agent want to write an exam or training he will pay the amount in terms of fee and also if the person who takes the policy will pay the money in terms of renewal the policy or paying the first payment in monthly or yearly bases and etc."
+		}
+	],
+	"skills": [
+		{
+			"name": "React & Redux",
+			"percent": "85%"
+		},
+		{
+			"name": "Javascript & jQuery",
+			"percent": "90%"
+		},
+		{
+			"name": "Angular",
+			"percent": "90%"
+		},
+		{
+			"name": "HTML5 & CSS",
+			"percent": "99%"
+		},
+		{
+			"name": "Atomic design",
+			"percent": "70%"
+		},
+		{
+			"name": "LESS & SASS",
+			"percent": "70%"
+		}
+	],
+	"education": [
+		{
+			"degree": "Btech in Electrical and Electronics",
+			"university": "Arjun colege of Technology and sciences",
+			"period": "2009-2013"
+		},
+		{
+			"degree": "Intermediate",
+			"university": "Sri Chaitanya Junior College",
+			"period": "2007 - 2009"
+		},
+		{
+			"degree": "SSC",
+			"university": "Eton Temple High School",
+			"period": "2006 - 2007"
+		}
+	],
+	"languages": [
+		{
+			"name":"Telugu",
+			"details": "Native"
+		},
+		{
+			"name":"Hindi",
+			"details": "Intermediate"
+		},
+		{
+			"name":"English",
+			"details": "Professional"
+		}
+	],
+	"interests": [
+		"Swimming"
+	]
+}
+
+
+
+
+
+

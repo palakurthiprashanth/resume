@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+@media (min-width:961px)  {
+  .sidebar-wrapper {
+    width: 292px !important;
+  }
+
+  .main-wrapper {
+    padding-right: 360px !important;
+  }
+
+  .profile-container {
+    padding: 30px 0 !important;
+  }
+ }
+
+  img {
+    width: 240px;
+  }
+
